@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Our Contributions](#contributions)
+* [Recommendations and Resources](#recomends)
 
 
 ## Introduction <a name="introduction"></a>
@@ -13,7 +14,7 @@ In general, the main features of the concept of open science can be identified a
 <p align = "center">
 <img alt="overview" src="/Resources/figures/OpenScience_Eco.png" width="80%" />
 
-In this repository, we compile a list of guidelines and resources to aid researchers aiming to contribute to open science. These guidelines and resources include recommended practices for sharing datasets, software tools or code, experimental protocols, results, and research preprints or papers.
+In this repository, we compile a list of guidelines and resources to aid researchers aiming to contribute to open science. These guidelines and resources include recommended practices for sharing datasets, software tools or code, experimental protocols, and research preprints or papers.
 
 ## Our Contributions <a name="contributions"></a>
 In the [LejeuneLab](https://sites.bu.edu/lejeunelab/) at Boston University, we have generated, curated, and disseminated a number of datasets relevant to two main applications: 
@@ -34,12 +35,26 @@ For the second application, we have published 3 datasets relevant to cardiac tis
 
 * [FibroTUG platforms: Time-lapse microscopy dataset of engineered cardiac microbundles](https://doi.org/10.5061/dryad.3r2280gqd)
 
+Through this work, we have come across a number of useful resources that serve as a good starting point for anyone who is planning to make their work publicly accessible and likewise, contrubite to open science. 
 
 
-## Recommendations for curating and disseminating datasets
+## Recommendations and Resources <a name="recomends"></a>
 
-## Recommendations for publicly sharing software tools or code
+### Recommendations for curating and disseminating datasets
+metadata 
+size 
+organization
+file formats 
+platform: institutional repository, Dryad, zenodo, figshare? 
 
-## Recommendations for publicly sharing experimental protocols and results
+### Recommendations for publicly sharing software tools or code
+platform: github, bitbucket, zenodo
 
-## Recommendations for publicly sharing research preprints or papers
+### Recommendations for publicly sharing experimental protocols
+
+protocol.io
+
+### Recommendations for publicly sharing research preprints or papers
+make sure journal you are submitting to are okay with this
+open-access and possibly open-review journals 
+arXiv, bioarXiv, 
