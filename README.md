@@ -44,11 +44,16 @@ In general, it is advisable to consult [FAIR Guiding Principles](https://www.go-
 As a rule of thumb, make sure that the online platform through which the work is shared can provide permanent links such as DOI-based links. In addition, it is important to choose permissive licenses for shared data and code to maximize the benefit other researchers will obtain from the published work.
 
 ### Recommendations for curating and disseminating datasets
+For sharing datasets in specific, we found it very useful to keep the following in mind when collecting and preparing the dataset for dissemination: 
 
-metadata 
+1) Make sure to keep track of metadata. Include as much information as necessary that would allow other researchers to reproduce the entire dataset if needed. 
+2) Be mindful of data organization. It is a good practice to put yourself in place of a potential user and imagine the  
+3) Make sure that the data is saved in file formats suitable for your data type and readable by all operating systems. For example, text `.txt` files, comma-separated value `.csv` files, and Tagged Image File Format `.tiff` images could all be suitable formats. 
+4) 
+
+
 size 
-organization
-file formats 
+
 platform: institutional repository, Dryad, zenodo, figshare? 
 
 
@@ -56,6 +61,7 @@ platform: institutional repository, Dryad, zenodo, figshare?
 platform: github, bitbucket, zenodo
 
 ### Recommendations for publicly sharing experimental protocols
+No experience with this but 
 protocol.io
 
 ### Recommendations for publicly sharing research preprints or papers
