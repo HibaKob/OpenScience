@@ -4,6 +4,7 @@
 * [Introduction](#introduction)
 * [Our Contributions](#contributions)
 * [Recommendations and Resources](#recomends)
+* [Case Study](#case)
 * [Additional Resources](#resources)
 * [Contact Information](#contact)
 
@@ -57,14 +58,14 @@ For sharing datasets in specific, we found it very useful to keep the following 
 ### Recommendations for publicly sharing software tools or code
 Regarding open-access software or code, there are also a number of practices that make developing computational tools more straightforward to build and share, and, on the other end, easier to download and use. Below are key points to consider:
 
-1) Build your code 
+1) Build your code with a [confessional programming](https://wiki.c2.com/?RubberDucking) mindset. A user who is familiar with any coding language to some extent should be able to understand the main working functions of the code.
+2) Keep in mind that the shared code might need to be updated or built on by you or by other users. A good practice is to segment the code into simpler functions where each funtion has a single purpose. This will also be useful for code testing and coverage (check recommendation #4)
+3) Use an open-source programming language. This will make your software more accessible and better aligned with the concept of open science. 
+4) Develop code that can be used across different operating systems. A practical way to build and test your code on different operating systems is through [GitHub Actions](https://docs.github.com/en/actions).  
+5) Make sure to include detailed installation instructions, extensive documentation, and an easy-to-follow tutorial with your code dissemination. Always assume that the end users have very limited programming experience.
+6) Choose an online platform that best aligns with the . There are great options that are available 
 
 platform: GitHub, GitLab, SourceForge, Bitbucket
-adaptable code
-code testing and coverage
-use open-source programming language
-documentation, installation guide, tutorial
-rubber duck:  rubber duck debugging  or confessional programming. 
 
 ### Recommendations for publicly sharing experimental protocols
 No experience with this but 
@@ -74,6 +75,8 @@ protocol.io
 make sure journal you are submitting to are okay with this
 open-access and possibly open-review journals 
 arXiv, bioarXiv, 
+
+## Case Study <a name="case"></a>
 
 ## Additional Resources <a name="resources"></a>
 * [Center for Open Science](https://www.cos.io/)
