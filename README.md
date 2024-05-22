@@ -4,6 +4,7 @@
 * [Introduction](#introduction)
 * [Our Contributions](#contributions)
 * [Recommendations and Resources](#recomends)
+* [Additional Resources](#resources)
 * [Contact Information](#contact)
 
 
@@ -39,7 +40,7 @@ For the second application, we have published 3 datasets relevant to cardiac tis
 Through this work, we have come across a number of useful resources that serve as a good starting point for anyone who is planning to make their work publicly accessible and likewise, contrubite to open science. 
 
 
-## Recommendations and Resources <a name="recomends"></a>
+## Recommendations <a name="recomends"></a>
 In general, it is advisable to consult [FAIR Guiding Principles](https://www.go-fair.org/fair-principles/), which are guidelines to optimize the `F`indability, `A`ccessibility, `I`nteroperability, and `R`euse of digital assets, for effective curation and dissemination of research products. 
 As a rule of thumb, make sure that the online platform through which the work is shared can provide permanent links such as DOI-based links. In addition, it is important to choose permissive licenses for shared data and code to maximize the benefit other researchers will obtain from the published work.
 
@@ -54,7 +55,16 @@ For sharing datasets in specific, we found it very useful to keep the following 
 
 
 ### Recommendations for publicly sharing software tools or code
-platform: github, bitbucket, zenodo
+Regarding open-access software or code, there are also a number of practices that make developing computational tools more straightforward to build and share, and, on the other end, easier to download and use. Below are key points to consider:
+
+1) Build your code 
+
+platform: GitHub, GitLab, SourceForge, Bitbucket
+adaptable code
+code testing and coverage
+use open-source programming language
+documentation, installation guide, tutorial
+rubber duck:  rubber duck debugging  or confessional programming. 
 
 ### Recommendations for publicly sharing experimental protocols
 No experience with this but 
@@ -64,6 +74,13 @@ protocol.io
 make sure journal you are submitting to are okay with this
 open-access and possibly open-review journals 
 arXiv, bioarXiv, 
+
+## Additional Resources <a name="resources"></a>
+* [Center for Open Science](https://www.cos.io/)
+* [FOSTER portal](https://www.fosteropenscience.eu)
+* [Center for Expanded Data Annotation and Retrieval](https://metadatacenter.org/)
+* [REMBI: Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology](https://doi.org/10.1038/s41592-021-01166-8)
+* [GitHub Actions](https://docs.github.com/en/actions)
 
 ## Contact Information <a name="contact"></a>
 For additional information, please contact Emma Lejeune `elejeune@bu.edu` or Hiba Kobeissi `hibakob@bu.edu`.
