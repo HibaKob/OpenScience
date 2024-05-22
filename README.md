@@ -4,12 +4,13 @@
 * [Introduction](#introduction)
 * [Our Contributions](#contributions)
 * [Recommendations and Resources](#recomends)
+* [Contact Information](#contact)
 
 
 ## Introduction <a name="introduction"></a>
 According to [Science.gov](https://open.science.gov/), "open science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity."
 
-In general, the main features of the concept of open science can be identified as being: `1)` accessible, `2)` reproducible, and `3)` inclusive, as shown in the schematic below adapted from [Ramachandran, et al.](https://doi.org/10.1029/2020EA001562)
+In general, the main features of the concept of open science can be identified as being: `1)` accessible, `2)` reproducible, and `3)` inclusive, as shown in the schematic below adapted from [Ramachandran, et al.](https://doi.org/10.1029/2020EA001562).
 
 <p align = "center">
 <img alt="overview" src="/Resources/figures/OpenScience_Eco.png" width="80%" />
@@ -39,22 +40,28 @@ Through this work, we have come across a number of useful resources that serve a
 
 
 ## Recommendations and Resources <a name="recomends"></a>
+In general, it is advisable to consult [FAIR Guiding Principles](https://www.go-fair.org/fair-principles/), which are guidelines to optimize the `F`indability, `A`ccessibility, `I`nteroperability, and `R`euse of digital assets, for effective curation and dissemination of research products. 
+As a rule of thumb, make sure that the online platform through which the work is shared can provide permanent links such as DOI-based links. In addition, it is important to choose permissive licenses for shared data and code to maximize the benefit other researchers will obtain from the published work.
 
 ### Recommendations for curating and disseminating datasets
+
 metadata 
 size 
 organization
 file formats 
 platform: institutional repository, Dryad, zenodo, figshare? 
 
+
 ### Recommendations for publicly sharing software tools or code
 platform: github, bitbucket, zenodo
 
 ### Recommendations for publicly sharing experimental protocols
-
 protocol.io
 
 ### Recommendations for publicly sharing research preprints or papers
 make sure journal you are submitting to are okay with this
 open-access and possibly open-review journals 
 arXiv, bioarXiv, 
+
+## Contact Information <a name="contact"></a>
+For additional information, please contact Emma Lejeune `elejeune@bu.edu` or Hiba Kobeissi `hibakob@bu.edu`.
