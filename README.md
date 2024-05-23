@@ -63,9 +63,7 @@ Regarding open-access software or code, there are also a number of practices tha
 3) Use an open-source programming language. This will make your software more accessible and better aligned with the concept of open science. 
 4) Develop code that can be used across different operating systems. A practical way to build and test your code on different operating systems is through [GitHub Actions](https://docs.github.com/en/actions).  
 5) Make sure to include detailed installation instructions, extensive documentation, and an easy-to-follow tutorial with your code dissemination. Always assume that the end users have very limited programming experience.
-6) Choose an online platform that best aligns with the . There are great options that are available 
-
-platform: GitHub, GitLab, SourceForge, Bitbucket
+6) Choose an online platform that best fits your preferences. Potential options include [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [SourceForge](https://sourceforge.net/), and [Bitbucket](https://bitbucket.org/).
 
 ### Recommendations for publicly sharing experimental protocols
 No experience with this but 
