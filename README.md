@@ -62,17 +62,19 @@ Regarding open-access software or code, there are also a number of practices tha
 2) Keep in mind that the shared code might need to be updated or built on by you or by other users. A good practice is to segment the code into simpler functions where each funtion has a single purpose. This will also be useful for code testing and coverage (check recommendation #4)
 3) Use an open-source programming language. This will make your software more accessible and better aligned with the concept of open science. 
 4) Develop code that can be used across different operating systems. A practical way to build and test your code on different operating systems is through [GitHub Actions](https://docs.github.com/en/actions).  
-5) Make sure to include detailed installation instructions, extensive documentation, and an easy-to-follow tutorial with your code dissemination. Always assume that the end users have very limited programming experience.
+5) Make sure to include detailed installation instructions, extensive documentation, and an easy-to-follow tutorial with your code dissemination. Always assume that the end users have very limited programming experience. To do this, you can take advantage of README files or host the full user guide on a documentation hosting site like [Read the Docs](https://about.readthedocs.com/).
 6) Choose an online platform that best fits your preferences. Potential options include [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [SourceForge](https://sourceforge.net/), and [Bitbucket](https://bitbucket.org/).
 
 ### Recommendations for publicly sharing experimental protocols
-No experience with this but 
-protocol.io
+Although our experience with writing and sharing experimental protocols is very limited, we have come across a number of useful as well as secure platforms for sharing
+[protocols.io](https://www.protocols.io/) and [Addgene Protocols](https://www.addgene.org/protocols/) 
 
 ### Recommendations for publicly sharing research preprints or papers
 make sure journal you are submitting to are okay with this
 open-access and possibly open-review journals 
 arXiv, bioarXiv, 
+
+Can use Top factor to identify journals (https://topfactor.org/journals)
 
 ## Case Study <a name="case"></a>
 
@@ -80,6 +82,7 @@ arXiv, bioarXiv,
 * [Center for Open Science](https://www.cos.io/)
 * [FOSTER portal](https://www.fosteropenscience.eu)
 * [Center for Expanded Data Annotation and Retrieval](https://metadatacenter.org/)
+* [Project TIER](https://www.projecttier.org/)
 * [REMBI: Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology](https://doi.org/10.1038/s41592-021-01166-8)
 * [GitHub Actions](https://docs.github.com/en/actions)
 
