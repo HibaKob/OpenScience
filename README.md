@@ -66,17 +66,15 @@ Regarding open-access software or code, there are also a number of practices tha
 6) Choose an online platform that best fits your preferences. Potential options include [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [SourceForge](https://sourceforge.net/), and [Bitbucket](https://bitbucket.org/).
 
 ### Recommendations for publicly sharing experimental protocols
-Although our experience with writing and sharing experimental protocols is very limited, we have come across a number of useful as well as secure platforms for sharing
-[protocols.io](https://www.protocols.io/) and [Addgene Protocols](https://www.addgene.org/protocols/) 
+Although our experience with writing and sharing experimental protocols is very limited, we have come across a number of useful as well as secure platforms for sharing detailed methods and protocols, specifically [protocols.io](https://www.protocols.io/), [Addgene Protocols](https://www.addgene.org/protocols/) and [openlabnotebooks.org/](https://openlabnotebooks.org/). 
 
 ### Recommendations for publicly sharing research preprints or papers
-make sure journal you are submitting to are okay with this
-open-access and possibly open-review journals 
-arXiv, bioarXiv, 
+In an attempt to make science more and more available, many researchers are either moving towards publishing in open-access journals or making their work available on e-Print archives such as [arXiv](https://arxiv.org/) or [bioRxiv](https://www.biorxiv.org/) when the journal allows it. Ideally, one should aim to publish in open-access and open-review journals as these types of journals become more common (see [The Journal of Open Source Software](https://joss.theoj.org/) for an example). 
 
-Can use Top factor to identify journals (https://topfactor.org/journals)
+To identify relevant open-access journals, [TOP Factor](https://topfactor.org/journals) serves as an excellent resource. 
 
 ## Case Study <a name="case"></a>
+
 
 ## Additional Resources <a name="resources"></a>
 * [Center for Open Science](https://www.cos.io/)
@@ -84,7 +82,7 @@ Can use Top factor to identify journals (https://topfactor.org/journals)
 * [Center for Expanded Data Annotation and Retrieval](https://metadatacenter.org/)
 * [Project TIER](https://www.projecttier.org/)
 * [REMBI: Recommended Metadata for Biological Images—enabling reuse of microscopy data in biology](https://doi.org/10.1038/s41592-021-01166-8)
-* [GitHub Actions](https://docs.github.com/en/actions)
+
 
 ## Contact Information <a name="contact"></a>
 For additional information, please contact Emma Lejeune `elejeune@bu.edu` or Hiba Kobeissi `hibakob@bu.edu`.
