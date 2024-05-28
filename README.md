@@ -66,7 +66,7 @@ Regarding open-access software or code, there are also a number of practices tha
 6) Choose an online platform that best fits your preferences. Potential options include [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [SourceForge](https://sourceforge.net/), and [Bitbucket](https://bitbucket.org/).
 
 ### Recommendations for publicly sharing experimental protocols
-Although our experience with writing and sharing experimental protocols is very limited, we have come across a number of useful as well as secure platforms for sharing detailed methods and protocols, specifically [protocols.io](https://www.protocols.io/), [Addgene Protocols](https://www.addgene.org/protocols/) and [openlabnotebooks.org/](https://openlabnotebooks.org/). 
+Although our experience with writing and sharing experimental protocols is very limited, we have come across a number of useful as well as secure platforms for sharing detailed methods and protocols, specifically [protocols.io](https://www.protocols.io/), [Addgene Protocols](https://www.addgene.org/protocols/), and [openlabnotebooks.org](https://openlabnotebooks.org/). 
 
 ### Recommendations for publicly sharing research preprints or papers
 In an attempt to make science more and more available, many researchers are either moving towards publishing in open-access journals or making their work available on e-Print archives such as [arXiv](https://arxiv.org/) or [bioRxiv](https://www.biorxiv.org/) when the journal allows it. Ideally, one should aim to publish in open-access and open-review journals as these types of journals become more common (see [The Journal of Open Source Software](https://joss.theoj.org/) for an example). 
@@ -74,6 +74,13 @@ In an attempt to make science more and more available, many researchers are eith
 To identify relevant open-access journals, [TOP Factor](https://topfactor.org/journals) serves as an excellent resource. 
 
 ## Case Study <a name="case"></a>
+We include here an example from our recent work to serve as a rough guide for those interested in making their work publicly available. We do not claim, by any means, that our approach is flawless; however, we have established a practical workflow for developing, curating, and disseminating all aspects of our research work.  
+
+### Code
+
+### Dataset
+
+### Manuscript
 
 
 ## Additional Resources <a name="resources"></a>
