@@ -81,9 +81,12 @@ This work is comprised of an open-source software, [MicroBundleCompute](https://
 ### Code
 Following the recommendations listed [above](#recomends_code), we develop our software in Python and share it under MIT License on Github. We adopted a test-driven development approach and employed [pytest](https://docs.pytest.org/en/8.2.x/) for local code testing and [GitHub Actions](https://docs.github.com/en/actions) for automated virtual testing on 3 different operating systems: Ubuntu, macOS, and Windows.  
 
-In addition, we provided a very detailed README page with clear installation instructions targeted towards users with limited experience in programming, and a step-by-step usage tutorial including a comprehensive description of the required inputs to the software as well as all output files. We also included our contact information in case any one has a question about the installation or usage of the package or has a suggestion on how to further improve it. 
+In addition, we provided a very detailed [README page](https://github.com/HibaKob/MicroBundleCompute/blob/master/README.md) with clear installation instructions targeted towards users with limited experience in programming, and a step-by-step usage tutorial including a comprehensive description of the required inputs to the software as well as all output files. We also included our contact information in case any one has a question about the installation or usage of the package or has a suggestion on how to further improve it. 
 
 ### Dataset
+We make all data used in developing our Python package available for further testing and reproducibility. Specifically, we validated [MicroBundleCompute](https://github.com/HibaKob/MicroBundleCompute) against synthetically generated data and showcased the capabilities of the code with real experimental data. 
+
+
 
 ### Manuscript
 For publishing our work, we chose [PLOS ONE](https://journals.plos.org/plosone/), an open-access journal that also allows for publishing the peer review history although the reviewers are kept anonymous (as opposed to an open-review journal such as [Joss](https://joss.theoj.org/)). 
