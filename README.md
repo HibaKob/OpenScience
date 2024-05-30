@@ -79,11 +79,16 @@ We include here an example from our recent work to serve as a rough guide for th
 This work is comprised of an open-source software, [MicroBundleCompute](https://github.com/HibaKob/MicroBundleCompute), a publicly shared dataset of synthetically generated examples, [SyntheticMicroBundle](https://github.com/HibaKob/SyntheticMicroBundle), a publicly shared dataset of [experimental examples](https://doi.org/10.5061/dryad.5x69p8d8g), and a manuscript published in an open-access journal, [PLOS ONE](https://journals.plos.org/plosone/). 
 
 ### Code
-Following the recommendations listed [above](#recomends_code)
+Following the recommendations listed [above](#recomends_code), we develop our software in Python and share it under MIT License on Github. We adopted a test-driven development approach and employed [pytest](https://docs.pytest.org/en/8.2.x/) for local code testing and [GitHub Actions](https://docs.github.com/en/actions) for automated virtual testing on 3 different operating systems: Ubuntu, macOS, and Windows.  
+
+In addition, we provided a very detailed README page with clear installation instructions targeted towards users with limited experience in programming, and a step-by-step usage tutorial including a comprehensive description of the required inputs to the software as well as all output files. We also included our contact information in case any one has a question about the installation or usage of the package or has a suggestion on how to further improve it. 
 
 ### Dataset
 
 ### Manuscript
+For publishing our work, we chose [PLOS ONE](https://journals.plos.org/plosone/), an open-access journal that also allows for publishing the peer review history although the reviewers are kept anonymous (as opposed to an open-review journal such as [Joss](https://joss.theoj.org/)). 
+
+[PLOS ONE](https://journals.plos.org/plosone/) also encourages publishing preprints. This allowed us to make our work available on [arxiv](https://doi.org/10.48550/arXiv.2308.04610) well before the paper was accepted for publication. This does not only increase the visibility of the work early on, but also makes it available for other researchers to check the work and potentially benefit from it.
 
 
 ## Additional Resources <a name="resources"></a>
