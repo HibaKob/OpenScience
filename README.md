@@ -45,7 +45,7 @@ Through this work, we have come across a number of useful resources that serve a
 In general, it is advisable to consult [FAIR Guiding Principles](https://www.go-fair.org/fair-principles/), which are guidelines to optimize the `F`indability, `A`ccessibility, `I`nteroperability, and `R`euse of digital assets, for effective curation and dissemination of research products. 
 As a rule of thumb, make sure that the online platform through which the work is shared can provide permanent links such as DOI-based links. In addition, it is important to choose permissive licenses for shared data and code to maximize the benefit other researchers will obtain from the published work.
 
-### Recommendations for curating and disseminating datasets
+### Recommendations for curating and disseminating datasets <a name="recomends_data"></a>
 For sharing datasets in specific, we found it very useful to keep the following in mind when collecting and preparing the dataset for dissemination: 
 
 1) Make sure to keep track of metadata. Include as much information as necessary that would allow other researchers to reproduce the entire dataset if needed. 
@@ -55,7 +55,7 @@ For sharing datasets in specific, we found it very useful to keep the following 
 5) Choose an online platform that best suits the type of data in your dataset, its potential users, and its overall size. Institutional repositories, when available, are always a great choice. Other popular options include [kaggle](https://www.kaggle.com/), [Dryad](https://datadryad.org/stash), [zenodo](https://zenodo.org/), and [figshare](https://figshare.com/).
 
 
-### Recommendations for publicly sharing software tools or code
+### Recommendations for publicly sharing software tools or code <a name="recomends_code"></a>
 Regarding open-access software or code, there are also a number of practices that make developing computational tools more straightforward to build and share, and, on the other end, easier to download and use. Below are key points to consider:
 
 1) Build your code with a [confessional programming](https://wiki.c2.com/?RubberDucking) mindset. A user who is familiar with any coding language to some extent should be able to understand the main working functions of the code.
@@ -65,10 +65,10 @@ Regarding open-access software or code, there are also a number of practices tha
 5) Make sure to include detailed installation instructions, extensive documentation, and an easy-to-follow tutorial with your code dissemination. Always assume that the end users have very limited programming experience. To do this, you can take advantage of README files or host the full user guide on a documentation hosting site like [Read the Docs](https://about.readthedocs.com/).
 6) Choose an online platform that best fits your preferences. Potential options include [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [SourceForge](https://sourceforge.net/), and [Bitbucket](https://bitbucket.org/).
 
-### Recommendations for publicly sharing experimental protocols
+### Recommendations for publicly sharing experimental protocols <a name="recomends_protocol"></a>
 Although our experience with writing and sharing experimental protocols is very limited, we have come across a number of useful as well as secure platforms for sharing detailed methods and protocols, specifically [protocols.io](https://www.protocols.io/), [Addgene Protocols](https://www.addgene.org/protocols/), and [openlabnotebooks.org](https://openlabnotebooks.org/). 
 
-### Recommendations for publicly sharing research preprints or papers
+### Recommendations for publicly sharing research preprints or papers <a name="recomends_paper"></a>
 In an attempt to make science more and more available, many researchers are either moving towards publishing in open-access journals or making their work available on e-Print archives such as [arXiv](https://arxiv.org/) or [bioRxiv](https://www.biorxiv.org/) when the journal allows it. Ideally, one should aim to publish in open-access and open-review journals as these types of journals become more common (see [The Journal of Open Source Software](https://joss.theoj.org/) for an example). 
 
 To identify relevant open-access journals, [TOP Factor](https://topfactor.org/journals) serves as an excellent resource. 
@@ -76,7 +76,10 @@ To identify relevant open-access journals, [TOP Factor](https://topfactor.org/jo
 ## Case Study <a name="case"></a>
 We include here an example from our recent work to serve as a rough guide for those interested in making their work publicly available. We do not claim, by any means, that our approach is flawless; however, we have established a practical workflow for developing, curating, and disseminating all aspects of our research work.  
 
+This work is comprised of an open-source software, [MicroBundleCompute](https://github.com/HibaKob/MicroBundleCompute), a publicly shared dataset of synthetically generated examples, [SyntheticMicroBundle](https://github.com/HibaKob/SyntheticMicroBundle), a publicly shared dataset of [experimental examples](https://doi.org/10.5061/dryad.5x69p8d8g), and a manuscript published in an open-access journal, [PLOS ONE](https://journals.plos.org/plosone/). 
+
 ### Code
+Following the recommendations listed [above](#recomends_code)
 
 ### Dataset
 
