@@ -1,4 +1,4 @@
-# OpenScience
+# Open Science — our attempt to follow best practices
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -52,7 +52,7 @@ For sharing datasets in specific, we found it very useful to keep the following 
 2) Be mindful of data organization. It is a good practice to put yourself in place of a potential user and think of an efficient folder structure to receive the data. In other words, present your dataset in a way that makes it readily implementable.
 3) Make sure that the data (and labels if available) is saved in file formats suitable for your data type and readable by all operating systems. For example, text `.txt` files, comma-separated value `.csv` files, and Tagged Image File Format `.tiff` images could all be suitable formats. Also, avoiding formats that require licensed software to be read aligns with the notion of open science.
 4) Avoid large file and folder sizes. This will make it easier for other researchers to sample your dataset and check if it is suitable for their application. Smaller file sizes are also more convenient for researchers around the world with suboptimal internet speeds.
-5) Choose an online platform that best suits the type of data in your dataset, its potential users, and its overall size. Institutional repositories, when available, are always a great choice. Other popular options include [kaggle](https://www.kaggle.com/), [Dryad](https://datadryad.org/stash), [zenodo](https://zenodo.org/), and [figshare](https://figshare.com/).
+5) Choose an online platform that best suits the type of data in your dataset, its potential users, and its overall size. Institutional repositories, when available, are always a great choice. Other popular options include [Dryad](https://datadryad.org/stash), [zenodo](https://zenodo.org/), and [figshare](https://figshare.com/).
 
 
 ### Recommendations for publicly sharing software tools or code <a name="recomends_code"></a>
